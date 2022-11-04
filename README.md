@@ -1,4 +1,4 @@
-# Distributed Hash Tables
+# Distributed Hash Tables Survey
 
 ## Abstract
 
