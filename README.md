@@ -1,4 +1,5 @@
-# Distributed Hash Tables Survey
+# Distributed Hash Tables
+By Jack Winslow and Justin Parsons
 
 ## Abstract
 
